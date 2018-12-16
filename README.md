@@ -6,14 +6,14 @@ From LIRI's menu select what you would like to search and then enter the appropr
 
 Here are some sample screen shots...
 
-  Main Menu 
+  Main Menu https://klbjklbj.github.io/liri-node-app/images/menu.png
   
-  Concert This
+  Concert This https://klbjklbj.github.io/liri-node-app/images/concertThis.png
   
-  Spotify This
+  Spotify This https://klbjklbj.github.io/liri-node-app/images/spotifyThis.png
   
-  Movie This
+  Movie This https://klbjklbj.github.io/liri-node-app/images/movieThis.png
   
-  Do What It Says
+  Do What It Says https://klbjklbj.github.io/liri-node-app/images/doWhatItSays.png
   
   
