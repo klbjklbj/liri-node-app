@@ -7,3 +7,13 @@ From LIRI's menu select what you would like to search and then enter the appropr
 Here are some sample screen shots...
 
   Main Menu 
+  
+  Concert This
+  
+  Spotify This
+  
+  Movie This
+  
+  Do What It Says
+  
+  
