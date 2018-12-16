@@ -9,11 +9,6 @@ var moment = require("moment");
 var fs = require("fs");
 var Spotify = require("node-spotify-api");
 
-// let spotify = new Spotify({
-//     id: "9990613d68f547fba782dbb4cebff479",
-//     secret: "9c97639854a14e54a567f65ec531fbea"
-// });
-
 let spotify = new Spotify(keys.spotify);
 
 var commandChoice = function () {
