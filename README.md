@@ -16,4 +16,6 @@ Here are some sample screen shots...
   
   Do What It Says https://klbjklbj.github.io/liri-node-app/images/doWhatItSays.png
   
+If you would like to clone this app from github and run it yourself, you will need to supply your own .env file for it to work. The dotenv package and documentation can be found here...https://www.npmjs.com/package/dotenv .
+  
   
