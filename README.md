@@ -9,13 +9,17 @@ Here are some sample screen shots...
   ### Main Menu 
   ![Image of Main Menu](https://klbjklbj.github.io/liri-node-app/images/menu.png)
     
-  Concert This https://klbjklbj.github.io/liri-node-app/images/concertThis.png
+  ### Concert This
+  ![Image of Concert This](https://klbjklbj.github.io/liri-node-app/images/concertThia.png)  
   
-  Spotify This https://klbjklbj.github.io/liri-node-app/images/spotifyThis.png
+  ### Spotify This 
+  ![Image of Spotify This](https://klbjklbj.github.io/liri-node-app/images/spotifyThis.png)
   
-  Movie This https://klbjklbj.github.io/liri-node-app/images/movieThis.png
+  ### Movie This
+  ![Image of Movie This](https://klbjklbj.github.io/liri-node-app/images/movieThis.png)
   
-  Do What It Says https://klbjklbj.github.io/liri-node-app/images/doWhatItSays.png
+  ### Do What it Says 
+  ![Image of Do What it Says](https://klbjklbj.github.io/liri-node-app/images/doWhatItSays.png)
   
 If you would like to clone this app from github and run it yourself, you will need to supply your own .env file for it to work. The dotenv package and documentation can be found here...https://www.npmjs.com/package/dotenv .
   
