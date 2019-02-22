@@ -1,4 +1,4 @@
-# liri-node-app
+# LIRI
 
 LIRI is a command-line Language Interpretation and Recognition Interface.  LIRI searches Spotify for songs, Bands in Town for concerts, and OMDB for movies with the use of APIs.  It is made using Javascript and the following Node Packages - Inquirer, Node-Spotify-API, Moment, DotEnv and Request.
 
