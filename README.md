@@ -10,7 +10,7 @@ Here are some sample screen shots...
   ![Image of Main Menu](https://klbjklbj.github.io/liri-node-app/images/menu.png)
     
   ### Concert This
-  ![Image of Concert This](https://klbjklbj.github.io/liri-node-app/images/concertThia.png)  
+  ![Image of Concert This](https://klbjklbj.github.io/liri-node-app/images/concertThis.png)  
   
   ### Spotify This 
   ![Image of Spotify This](https://klbjklbj.github.io/liri-node-app/images/spotifyThis.png)
