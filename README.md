@@ -24,7 +24,9 @@ Here are some sample screen shots...
 
 ## To Install LIRI
 
-Clone this repo on your machine.
+Clone this repo to your local directory.
+
+Go to your repo in your command terminal, and enter *npm install* to makes sure you have the required NPM packages to run this app.
 
 The Spotify id is kept secret in a .env file. This file will be used by the dotenv package to set environment variables to the global process.env object in node. You will need to have your own Spotify id in your own .env file for this app to work on your machine. The dotenv package and documentation can be found here...https://www.npmjs.com/package/dotenv .
   
