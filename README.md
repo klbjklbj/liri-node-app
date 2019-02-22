@@ -21,6 +21,11 @@ Here are some sample screen shots...
   ### Do What it Says 
   ![Image of Do What it Says](https://klbjklbj.github.io/liri-node-app/images/doWhatItSays.png)
   
-If you would like to clone this app from github and run it yourself, you will need to supply your own .env file for it to work. The dotenv package and documentation can be found here...https://www.npmjs.com/package/dotenv .
+
+## To Install LIRI
+
+Clone this repo on your machine.
+
+The Spotify id is kept secret in a .env file. This file will be used by the dotenv package to set environment variables to the global process.env object in node. You will need to have your own Spotify id in your own .env file for this app to work on your machine. The dotenv package and documentation can be found here...https://www.npmjs.com/package/dotenv .
   
   
