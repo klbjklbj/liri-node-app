@@ -6,8 +6,9 @@ From LIRI's menu select what you would like to search and then enter the appropr
 
 Here are some sample screen shots...
 
-  Main Menu https://klbjklbj.github.io/liri-node-app/images/menu.png
-  
+  Main Menu 
+  ![Image of Yaktocat](https://klbjklbj.github.io/liri-node-app/images/menu.png)
+    
   Concert This https://klbjklbj.github.io/liri-node-app/images/concertThis.png
   
   Spotify This https://klbjklbj.github.io/liri-node-app/images/spotifyThis.png
